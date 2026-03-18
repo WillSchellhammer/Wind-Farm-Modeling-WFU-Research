@@ -1,0 +1,37 @@
+TURBSIM OUTPUT: 
+**************************************************************************************************
+TurbSim
+
+Copyright (C) 2025 National Renewable Energy Laboratory
+Copyright (C) 2025 Envision Energy USA LTD
+
+This program is licensed under Apache License Version 2.0 and comes with ABSOLUTELY NO WARRANTY.
+See the "LICENSE" file distributed with this software for details.
+**************************************************************************************************
+
+ Running TurbSim (from OpenFAST-v4.1.2)
+
+
+ Reading the input file "Generator/TurbSim1.inp".
+ Calculating the spectral and transfer function matrices:
+    u-component matrices (IEC coherence method)
+    v-component matrices (identity coherence)
+    w-component matrices (identity coherence)
+ Generating time series for all points:
+    u-component
+    v-component
+    w-component
+ Computing hub-height statistics
+ Writing statistics to summary file
+ Generating AeroDyn binary time-series file "Generator/TurbSim1.bts"
+ Generating full-field formatted file "Generator/TurbSim1.u".
+ Generating full-field formatted file "Generator/TurbSim1.v".
+ Generating full-field formatted file "Generator/TurbSim1.w".
+
+ Processing complete.  1.9531 CPU seconds used.
+
+ TurbSim terminated normally.
+
+
+TURBSIM ERROR: 
+RETURN CODE: 0
